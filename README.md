@@ -1,0 +1,2 @@
+# wisataku
+tugas 1 
